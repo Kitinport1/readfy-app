@@ -1,5 +1,7 @@
 # readfy-app
 
+> Collaborative project built together with Jheanny Cardoso. My contribution: UI/UX design and layout, and implementation of the dark/light/reading-mode theming. Backend integration and API adaptation by my collaborator.
+
 Para inicializar o projeto, clone o repositório e instale as dependências:
 
 ```bash
